@@ -8,9 +8,9 @@ def fizzbuzz(int)
     return "Fizz"
   elsif buzz
     return "Buzz"
-  else 
+  else
     return nil
   end
-     
-    
+
+
 end
