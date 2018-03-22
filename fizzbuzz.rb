@@ -8,7 +8,7 @@ end
 elsif (int % 3==0) && (int % 5)
 "FizzBuzz"
 end
-else 
+else
   nil
 end
 end
